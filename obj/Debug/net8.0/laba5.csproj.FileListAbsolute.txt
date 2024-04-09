@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\program\лаби\2 семестр\laba5\laba5\obj\Debug\net8.0\laba5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\program\лаби\2 семестр\laba5\laba5\obj\Debug\net8.0\laba5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\program\лаби\2 семестр\laba5\laba5\obj\Debug\net8.0\laba5.AssemblyInfo.cs
+C:\Users\User\Desktop\program\лаби\2 семестр\laba5\laba5\obj\Debug\net8.0\laba5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\program\лаби\2 семестр\laba5\laba5\bin\Debug\net8.0\laba5.exe
+C:\Users\User\Desktop\program\лаби\2 семестр\laba5\laba5\bin\Debug\net8.0\laba5.deps.json
+C:\Users\User\Desktop\program\лаби\2 семестр\laba5\laba5\bin\Debug\net8.0\laba5.runtimeconfig.json
+C:\Users\User\Desktop\program\лаби\2 семестр\laba5\laba5\bin\Debug\net8.0\laba5.dll
+C:\Users\User\Desktop\program\лаби\2 семестр\laba5\laba5\bin\Debug\net8.0\laba5.pdb
+C:\Users\User\Desktop\program\лаби\2 семестр\laba5\laba5\obj\Debug\net8.0\laba5.dll
+C:\Users\User\Desktop\program\лаби\2 семестр\laba5\laba5\obj\Debug\net8.0\refint\laba5.dll
+C:\Users\User\Desktop\program\лаби\2 семестр\laba5\laba5\obj\Debug\net8.0\laba5.pdb
+C:\Users\User\Desktop\program\лаби\2 семестр\laba5\laba5\obj\Debug\net8.0\laba5.genruntimeconfig.cache
+C:\Users\User\Desktop\program\лаби\2 семестр\laba5\laba5\obj\Debug\net8.0\ref\laba5.dll
